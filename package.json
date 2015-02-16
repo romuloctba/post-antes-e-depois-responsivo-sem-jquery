@@ -1,0 +1,9 @@
+{
+  "name": "antes-depois-sem-jquery",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-connect-multi": "^1.0.8",
+    "gulp-stylus": "^1.3.4"
+  }
+}
